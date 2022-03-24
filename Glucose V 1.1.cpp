@@ -67,7 +67,7 @@ void sugarLevel(){
 			cout <<"data recorded to log file \n";
 			cout << endl;		
 	}
-	
+	dieksldi
 	//The sleep function Slow down our program
 	Sleep(5000); //windows API to pause the program for 5 seconds
 	
